@@ -1,42 +1,131 @@
 <div align="center">
   
-  # Olá, eu sou o Mateus Silva! 👋
-  ### Software Engineer | Java Backend | Clean Code Enthusiast
+  <!-- HEADER -->
+  <table border="0" width="100%">
+    <tr>
+      <td width="55%" align="center" valign="middle">
+        <h1>Olá, eu sou o Mateus Silva! 👋</h1>
+        <h3>Software Engineer | Java Backend</h3>
+        <br>
+        <p>
+          Graduado em <b>Análise e Desenvolvimento de Sistemas</b>.<br>
+          Engenheiro de Software em formação, focado no desenvolvimento Backend com <b>Java</b>,
+          sempre priorizando código limpo e organizado.
+        </p>
+      </td>
+      <td width="45%" align="center" valign="middle">
+        <img src="animation.gif" width="100%" alt="animation.gif">
+      </td>
+    </tr>
+  </table>
 
-  <p align="center">
-    Graduado em <b>Análise e Desenvolvimento de Sistemas</b>. <br>
-    Engenheiro de Software em formação, focado no desenvolvimento Backend com <b>Java</b>, sempre priorizando código limpo e organizado.
-  </p>
+  <br>
+  <img
+    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+    width="100%"
+  >
+  <br><br>
+
+  <!-- SKILLS -->
+  <table border="0" width="100%" style="table-layout: fixed;">
+    <tr>
+      <td width="55%" align="center" valign="middle">
+        <h3>☕ Linguagens (Core)</h3>
+        <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java">
+      </td>
+      <td width="45%" align="center" valign="middle" rowspan="2">
+        <h3>⚙️ Ferramentas & IDE</h3>
+        <img src="https://skillicons.dev/icons?i=git,idea" height="50" alt="Git & IntelliJ">
+        <br><br>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+        <h4 style="white-space: nowrap;">🗄️ Banco de Dados & Frameworks</h4>
+        <img src="https://skillicons.dev/icons?i=postgres,mysql" height="50" alt="Databases">
+        <br>
+        <i>(Spring em breve)</i>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+  <img
+    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+    width="100%"
+  >
+  <br><br>
+
+   <!-- PROJECTS -->
+  <h2 align="center">💻 Projetos & Portfólio</h2>
+
+  <table border="0" width="100%" style="table-layout: fixed;">
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <h3>Nome do Projeto 1</h3>
+        <p>Descrição do projeto...</p>
+        <img src="https://skillicons.dev/icons?i=java" height="30">
+        <br><br>
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/Status-Planejado-lightgrey?style=for-the-badge">
+        </a>
+        <br>
+        <img src="https://img.shields.io/badge/Ver_Código-238636?style=for-the-badge&logo=github&logoColor=white">
+      </td>
+      <td width="50%" align="center" valign="top">
+        <h3>Nome do Projeto 2</h3>
+        <p>Descrição do projeto...</p>
+        <img src="https://skillicons.dev/icons?i=spring" height="30">
+        <br><br>
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/Status-Planejado-lightgrey?style=for-the-badge">
+        </a>
+        <br>
+        <img src="https://img.shields.io/badge/Ver_Código-238636?style=for-the-badge&logo=github&logoColor=white">
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <br>
+        <h3>Nome do Projeto 3</h3>
+        <p>Descrição do projeto...</p>
+        <img src="https://skillicons.dev/icons?i=docker" height="30">
+        <br><br>
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/Status-Planejado-lightgrey?style=for-the-badge">
+        </a>
+        <br>
+        <img src="https://img.shields.io/badge/Ver_Código-238636?style=for-the-badge&logo=github&logoColor=white">
+      </td>
+      <td width="50%" align="center" valign="top">
+        <br>
+        <h3>Nome do Projeto 4</h3>
+        <p>Descrição do projeto...</p>
+        <img src="https://skillicons.dev/icons?i=postgres" height="30">
+        <br><br>
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/Status-Planejado-lightgrey?style=for-the-badge">
+        </a>
+        <br>
+        <img src="https://img.shields.io/badge/Ver_Código-238636?style=for-the-badge&logo=github&logoColor=white">
+      </td>
+    </tr>
+  </table>
   
-  <p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <br><br>
 
-  ---
-
-  ### 🛠️ Tech Stack & Ferramentas
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
-  </p>
-
-  ---
-
-### 📊 GitHub Analytics
-
-  <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateus-silva-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-silva-dev&layout=compact&theme=dracula&hide_border=true&langs_count=6"/>
-  </p>
-
-  ---
-
-  ### 🤝 Vamos Conectar?
+   <!-- CONTACT -->
+  <h2 align="center">🤝 Vamos Conversar?</h2>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/devmateussilva/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" height="60" alt="LinkedIn">
     </a>
+    <br><br>
+    <i>Estou disponível para novas oportunidades e conexões!</i>
   </p>
+  
 </div>
+
+
+<!-- ICONES: https://github.com/tandpfun/skill-icons#readme -->
