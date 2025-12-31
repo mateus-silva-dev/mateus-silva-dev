@@ -1,5 +1,4 @@
 <div align="center">
-  
   <!-- HEADER -->
   <table border="0" width="100%">
     <tr>
@@ -26,6 +25,7 @@
   >
   <br><br>
 
+
   <!-- SKILLS -->
   <table border="0" width="100%" style="table-layout: fixed;">
     <tr>
@@ -42,9 +42,11 @@
     <tr>
       <td align="center" valign="middle">
         <h4 style="white-space: nowrap;">🗄️ Banco de Dados & Frameworks</h4>
+        <!-- EM BREVE
         <img src="https://skillicons.dev/icons?i=postgres,mysql" height="50" alt="Databases">
         <br>
         <i>(Spring em breve)</i>
+        -->
       </td>
     </tr>
   </table>
@@ -55,66 +57,94 @@
     width="100%"
   >
   <br><br>
-
-   <!-- PROJECTS -->
-  <h2 align="center">💻 Projetos & Portfólio</h2>
-
-  <table border="0" width="100%" style="table-layout: fixed;">
+  
+  
+  
+  ## 💻 Projetos & Portfólio
+  
+  <table width="100%" align="center">
     <tr>
       <td width="50%" align="center" valign="top">
-        <h3>Nome do Projeto 1</h3>
-        <p>Descrição do projeto...</p>
-        <img src="https://skillicons.dev/icons?i=java" height="30">
-        <br><br>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Status-Planejado-lightgrey?style=for-the-badge">
-        </a>
-        <br>
-        <img src="https://img.shields.io/badge/Ver_Código-238636?style=for-the-badge&logo=github&logoColor=white">
+  
+  <h3 align="center">📌 Nome do Projeto 1</h3>
+  <p align="center">Descrição do projeto...</p>
+  
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=java" height="28" />
+  </p>
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Status-Planejado-lightgrey?style=for-the-badge" />
+  </p>
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Ver_Código-238636?style=for-the-badge&logo=github&logoColor=white" />
+  </p>
       </td>
       <td width="50%" align="center" valign="top">
-        <h3>Nome do Projeto 2</h3>
-        <p>Descrição do projeto...</p>
-        <img src="https://skillicons.dev/icons?i=spring" height="30">
-        <br><br>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Status-Planejado-lightgrey?style=for-the-badge">
-        </a>
-        <br>
-        <img src="https://img.shields.io/badge/Ver_Código-238636?style=for-the-badge&logo=github&logoColor=white">
+  
+  <h3 align="center">📌 Nome do Projeto 2</h3>
+  <p align="center">Descrição do projeto...</p>
+  
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=spring" height="28" />
+  </p>
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Status-Planejado-lightgrey?style=for-the-badge" />
+  </p>
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Ver_Código-238636?style=for-the-badge&logo=github&logoColor=white" />
+  </p>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center" valign="top">
-        <br>
-        <h3>Nome do Projeto 3</h3>
-        <p>Descrição do projeto...</p>
-        <img src="https://skillicons.dev/icons?i=docker" height="30">
-        <br><br>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Status-Planejado-lightgrey?style=for-the-badge">
-        </a>
-        <br>
-        <img src="https://img.shields.io/badge/Ver_Código-238636?style=for-the-badge&logo=github&logoColor=white">
+  
+  <h3 align="center">📌 Nome do Projeto 3</h3>
+  <p align="center">Descrição do projeto...</p>
+  
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=docker" height="28" />
+  </p>
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Status-Planejado-lightgrey?style=for-the-badge" />
+  </p>
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Ver_Código-238636?style=for-the-badge&logo=github&logoColor=white" />
+  </p>
       </td>
       <td width="50%" align="center" valign="top">
-        <br>
-        <h3>Nome do Projeto 4</h3>
-        <p>Descrição do projeto...</p>
-        <img src="https://skillicons.dev/icons?i=postgres" height="30">
-        <br><br>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Status-Planejado-lightgrey?style=for-the-badge">
-        </a>
-        <br>
-        <img src="https://img.shields.io/badge/Ver_Código-238636?style=for-the-badge&logo=github&logoColor=white">
+  
+  <h3 align="center">📌 Nome do Projeto 4</h3>
+  <p align="center">Descrição do projeto...</p>
+  
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=postgres" height="28" />
+  </p>
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Status-Planejado-lightgrey?style=for-the-badge" />
+  </p>
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Ver_Código-238636?style=for-the-badge&logo=github&logoColor=white" />
+  </p>
       </td>
     </tr>
   </table>
-  
-  <br><br>
 
-   <!-- CONTACT -->
+  <br>
+  <img
+    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+    width="100%"
+  >
+  <br><br>
+  
+<!-- CONTACT -->
   <h2 align="center">🤝 Vamos Conversar?</h2>
 
   <p align="center">
