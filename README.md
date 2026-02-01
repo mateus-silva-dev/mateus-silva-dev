@@ -66,19 +66,21 @@
     <tr>
       <td width="50%" align="center" valign="top">
   
-  <h3 align="center">📌 Nome do Projeto 1</h3>
-  <p align="center">Descrição do projeto...</p>
+  <h3 align="center">🎟️ TicketHub</h3>
+  <p align="center">Sistema corporativo de gestão de eventos e bilheteria.</p>
   
   <p align="center">
     <img src="https://skillicons.dev/icons?i=java" height="28" />
   </p>
   
   <p align="center">
-    <img src="https://img.shields.io/badge/Status-Planejado-lightgrey?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Status-Em desenvolvimento-lightgrey?style=for-the-badge" />
   </p>
   
   <p align="center">
-    <img src="https://img.shields.io/badge/Ver_Código-238636?style=for-the-badge&logo=github&logoColor=white" />
+    <a href="https://github.com/mateus-silva-dev/TicketHub">
+      <img src="https://img.shields.io/badge/Ver_Código-238636?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
   </p>
       </td>
       <td width="50%" align="center" valign="top">
