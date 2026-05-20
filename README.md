@@ -93,11 +93,11 @@
   </p>
   
   <p align="center">
-    <img src="https://img.shields.io/badge/Status-Planejado-lightgrey?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Status-Planned-lightgrey?style=for-the-badge" />
   </p>
   
   <p align="center">
-    <img src="https://img.shields.io/badge/Ver_Código-238636?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/See_project-238636?style=for-the-badge&logo=github&logoColor=white" />
   </p>
       </td>
     </tr>
@@ -112,11 +112,11 @@
   </p>
   
   <p align="center">
-    <img src="https://img.shields.io/badge/Status-Planejado-lightgrey?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Status-Planned-lightgrey?style=for-the-badge" />
   </p>
   
   <p align="center">
-    <img src="https://img.shields.io/badge/Ver_Código-238636?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/See_project-238636?style=for-the-badge&logo=github&logoColor=white" />
   </p>
       </td>
       <td width="50%" align="center" valign="top">
@@ -129,11 +129,11 @@
   </p>
   
   <p align="center">
-    <img src="https://img.shields.io/badge/Status-Planejado-lightgrey?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Status-Planned-lightgrey?style=for-the-badge" />
   </p>
   
   <p align="center">
-    <img src="https://img.shields.io/badge/Ver_Código-238636?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/See_project-238636?style=for-the-badge&logo=github&logoColor=white" />
   </p>
       </td>
     </tr>
