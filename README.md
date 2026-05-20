@@ -3,13 +3,13 @@
   <table border="0" width="100%">
     <tr>
       <td width="55%" align="center" valign="middle">
-        <h1>Olá, eu sou o Mateus Silva! 👋</h1>
+        <h1>Hi, I'm Mateus Silva! 👋</h1>
         <h3>Software Engineer | Java Backend</h3>
         <br>
         <p>
-          Graduado em <b>Análise e Desenvolvimento de Sistemas</b>.<br>
-          Engenheiro de Software em formação, focado no desenvolvimento Backend com <b>Java</b>,
-          sempre priorizando código limpo e organizado.
+          <p>Degree in Systems Analysis and Development at <strong>Faculdade Impacta de Tecnologia (FIT) - BR.</strong></p>
+          <p>Computer Science student at <strong>University of the People (UoPeople) - USA.</strong></p>
+          <p>Software Engineer in training, focused on Backend development with Java,always prioritizing clean and organized code.</p>
         </p>
       </td>
       <td width="45%" align="center" valign="middle">
@@ -30,23 +30,20 @@
   <table border="0" width="100%" style="table-layout: fixed;">
     <tr>
       <td width="55%" align="center" valign="middle">
-        <h3>☕ Linguagens (Core)</h3>
+        <h3>☕ Languages ​​(Core)</h3>
         <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java">
       </td>
       <td width="45%" align="center" valign="middle" rowspan="2">
-        <h3>⚙️ Ferramentas & IDE</h3>
-        <img src="https://skillicons.dev/icons?i=git,idea" height="50" alt="Git & IntelliJ">
+        <h3>⚙️ Tools & IDE</h3>
+        <img src="https://skillicons.dev/icons?i=idea,git,github,postman" height="50" alt="Git & IntelliJ">
         <br><br>
       </td>
     </tr>
     <tr>
       <td align="center" valign="middle">
-        <h4 style="white-space: nowrap;">🗄️ Banco de Dados & Frameworks</h4>
-        <!-- EM BREVE
-        <img src="https://skillicons.dev/icons?i=postgres,mysql" height="50" alt="Databases">
+        <h4 style="white-space: nowrap;">🗄️ Databases & Frameworks</h4>
+        <img src="https://skillicons.dev/icons?i=spring,postgres,mysql" height="50" alt="Databases">
         <br>
-        <i>(Spring em breve)</i>
-        -->
       </td>
     </tr>
   </table>
@@ -66,27 +63,30 @@
     <tr>
       <td width="50%" align="center" valign="top">
   
-  <h3 align="center">🎟️ TicketHub</h3>
-  <p align="center">Sistema corporativo de gestão de eventos e bilheteria.</p>
+  <h3 align="center">🚘 ParkFlow 🚘</h3>
+  <p align="center">ParkFlow is a robust RESTful API designed to manage parking lot operations efficiently.</p>
   
   <p align="center">
     <img src="https://skillicons.dev/icons?i=java" height="28" />
+    <img src="https://skillicons.dev/icons?i=spring" height="28" />
+    <img src="https://skillicons.dev/icons?i=mysql" height="28" />
+    <img src="https://skillicons.dev/icons?i=maven" height="28" />
   </p>
   
   <p align="center">
-    <img src="https://img.shields.io/badge/Status-Em desenvolvimento-lightgrey?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Status-In development-lightgrey?style=for-the-badge" />
   </p>
   
   <p align="center">
-    <a href="https://github.com/mateus-silva-dev/TicketHub">
-      <img src="https://img.shields.io/badge/Ver_Código-238636?style=for-the-badge&logo=github&logoColor=white" />
+    <a href="[https://github.com/mateus-silva-dev/ParkFlow](https://github.com/mateus-silva-dev/ParkFlow)">
+      <img src="https://img.shields.io/badge/See_project-238636?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </p>
       </td>
       <td width="50%" align="center" valign="top">
   
-  <h3 align="center">📌 Nome do Projeto 2</h3>
-  <p align="center">Descrição do projeto...</p>
+  <h3 align="center">📌 Project Name 2</h3>
+  <p align="center">Project description....</p>
   
   <p align="center">
     <img src="https://skillicons.dev/icons?i=spring" height="28" />
@@ -104,8 +104,8 @@
     <tr>
       <td width="50%" align="center" valign="top">
   
-  <h3 align="center">📌 Nome do Projeto 3</h3>
-  <p align="center">Descrição do projeto...</p>
+  <h3 align="center">📌 Project Name 3</h3>
+  <p align="center">Project description...</p>
   
   <p align="center">
     <img src="https://skillicons.dev/icons?i=docker" height="28" />
@@ -121,8 +121,8 @@
       </td>
       <td width="50%" align="center" valign="top">
   
-  <h3 align="center">📌 Nome do Projeto 4</h3>
-  <p align="center">Descrição do projeto...</p>
+  <h3 align="center">📌 Project Name 4</h3>
+  <p align="center">Project description...</p>
   
   <p align="center">
     <img src="https://skillicons.dev/icons?i=postgres" height="28" />
@@ -147,14 +147,14 @@
   <br><br>
   
 <!-- CONTACT -->
-  <h2 align="center">🤝 Vamos Conversar?</h2>
+  <h2 align="center">🤝 Let's Connect</h2>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/devmateussilva/" target="_blank">
       <img src="https://skillicons.dev/icons?i=linkedin" height="60" alt="LinkedIn">
     </a>
     <br><br>
-    <i>Estou disponível para novas oportunidades e conexões!</i>
+    <i>I'm available for new opportunities and networking!</i>
   </p>
   
 </div>
