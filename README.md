@@ -8,7 +8,6 @@
         <br>
         <p>
           <p>Degree in Systems Analysis and Development at <strong>Faculdade Impacta de Tecnologia (FIT) - BR.</strong></p>
-          <p>Computer Science student at <strong>University of the People (UoPeople) - USA.</strong></p>
           <p>Software Engineer in training, focused on Backend development with Java,always prioritizing clean and organized code.</p>
         </p>
       </td>
